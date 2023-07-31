@@ -1,10 +1,10 @@
 {
-"name": "bundles-tmp",
-"displayName": "Bundles (TEMPLATE)",
+"name": "bundles-extension-exotic-mod",
+"displayName": "Bundles Extension (Exotic Mod)",
 "author": "SMOLKEYS",
-"description": "TEMPLATE MOD",
+"description": "QOAH",
 "version": "0",
-"minGameVersion": "126",
+"minGameVersion": "145",
 "hidden": true,
-"dependencies": []
+"dependencies": ["exotic-mod"]
 }
